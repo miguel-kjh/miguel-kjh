@@ -1,19 +1,19 @@
-### Hi there 👋
+## Hi there, I'm Miguel 👋
 
-<!--
-**miguel-kjh/miguel-kjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a PhD student whose research focuses on deep learning and natural language processing (NLP) in conversational systems, specifically working with large language models (LLMs). I've also collaborated on various research projects as a data scientist and computer vision engineer. In addition to my research work, I have experience as a software engineer, developing both software and web applications.
 
-Here are some ideas to get you started:
+### Current Projects
+- 🔭 I’m currently working on improving conversational systems using deep learning and NLP techniques with LLMs
+- 🌱 I’m constantly learning and staying up-to-date with the latest advances in AI, NLP, and computer vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Collaboration & Connect
+- 👯 I’m always open to collaborating on research projects and sharing my expertise in data science, computer vision, and software engineering
+- 🤔 If you need help or advice, feel free to reach out
+- 💬 Ask me about my research, experience, or anything related to AI and computer science
+
+### How to Reach Me
+- 📫 You can reach me via [LinkedIn](www.linkedin.com/in/miguel-angel-medina-ramirez)
 
 ![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=miguel-kjh&show_icons=true&theme=react)
 
