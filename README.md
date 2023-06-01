@@ -13,4 +13,4 @@ I'm a PhD student whose research focuses on deep learning and natural language p
 - 💬 Ask me about my research, experience, or anything related to AI and computer science.
 
 ### How to Reach Me
-- 📫 You can reach me via [LinkedIn](www.linkedin.com/in/miguel-angel-medina-ramirez) or [twitter](https://twitter.com/Miguelcse7)
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/miguel-angel-medina-ramirez) or [twitter](https://twitter.com/Miguelcse7)
