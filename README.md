@@ -14,5 +14,3 @@ I'm a PhD student whose research focuses on deep learning and natural language p
 
 ### How to Reach Me
 - 📫 You can reach me via [LinkedIn](www.linkedin.com/in/miguel-angel-medina-ramirez) or [twitter](https://twitter.com/Miguelcse7)
-
-![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=miguel-kjh&show_icons=true&theme=react)
